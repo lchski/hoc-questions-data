@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repo stores the processed data created by [`lchski/hoc-questions-analysis`](https://github.com/lchski/hoc-questions-analysis). It’s currently updated manually.
+This repo stores the processed data created by [`lchski/hoc-questions-analysis`](https://github.com/lchski/hoc-questions-analysis). It’s currently updated manually. If you want to play with the data quickly, you can [browse it in a datasette instance](https://hoc-written-questions.glitch.me/data/questions_and_responses) (a straightforward database/SQL interface, in your browser).
 
 **The most comprehensive file is `questions_and_responses.csv`. If you’re doing analysis, you probably want to use it.**
 
